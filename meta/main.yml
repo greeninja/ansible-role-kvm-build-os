@@ -1,1 +1,7 @@
 ---
+galaxy_info:
+  role_name: kvm-build-os
+  description: Simple role for building OS disks for KVM VMs
+
+galaxy_tags: []
+dependencies: []
